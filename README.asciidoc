@@ -1,0 +1,6 @@
+= Langton
+
+Implémentation de l'algorithme de parcours de la fourmi de langton.
+Ouvrir `index.html` pour visualiser.
+
+
